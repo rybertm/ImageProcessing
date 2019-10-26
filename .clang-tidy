@@ -1,1 +1,1 @@
-﻿Checks: 'cppcoreguidelines-*, -clang-analyzer-cplusplus*, modernize-*, readability-*'
+﻿Checks: 'cppcoreguidelines-*, modernize-*'
